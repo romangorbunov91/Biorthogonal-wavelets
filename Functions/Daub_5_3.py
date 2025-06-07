@@ -1,5 +1,5 @@
 import numpy as np
-def vwDaub_5_3(N):
+def Daub_5_3(N):
     if ((N > 1)&((N % 2) == 0)):
         Na = N + 3
         Nd = N + 1
