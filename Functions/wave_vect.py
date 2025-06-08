@@ -1,5 +1,7 @@
 import numpy as np
-from Functions.Daub_5_3 import Daub_5_3
+from Functions.daub_5_3 import daub_5_3
+from Functions.daub_9_7 import daub_9_7
+from Functions.coif_6 import coif_6
 def wave_vect(N,K, wave_type):
     if ((N > 1)&((N % 2) == 0)):
         
