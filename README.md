@@ -7,10 +7,10 @@
 <img src='readme_img/coif_6_daub_5_3_daub_9_7_signals.png' alt='Alt Text' style='width:100%; height:auto;'>
 
 #### Figure 3.15 из книги [1]
-<img src='readme_img/fig_3_15.png' alt='Alt Text' style='width:100%; height:auto;'>
+<img src='readme_img/fig_3_15.png' alt='Figure 3.15' style='width:100%; height:auto;'>
 
 #### Figure 3.16 из книги [1]
-<img src='readme_img/fig_3_16.png' alt='Alt Text' style='width:100%; height:auto;'>
+<img src='readme_img/fig_3_16.png' alt='Figure 3.16' style='width:100%; height:auto;'>
 
 ## Примечания
 1. В случае небиортогональных систем (в том числе Coif 6) соответствующие функции анализа и синтеза одинаковы, т.е. ${V^K=\tilde{V}^K}$, ${W^K=\tilde{W}^K}$.
