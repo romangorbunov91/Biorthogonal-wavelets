@@ -20,13 +20,13 @@
 В случае небиортогональных систем соответствующие функции анализа и синтеза одинаковы, т.е. ${V^K=\tilde{V}^K}$, ${W^K=\tilde{W}^K}$.
 
 
-<img src='readme_img/daub_5_3_signals.png' alt='Alt Text' style='width:80%; height:auto;'>
+<img src='readme_img/daub_5_3_signals.png' alt='Alt Text' style='width:100%; height:auto;'>
 
-<img src='readme_img/daub_9_7_signals.png' alt='Alt Text' style='width:80%; height:auto;'>
+<img src='readme_img/daub_9_7_signals.png' alt='Alt Text' style='width:100%; height:auto;'>
 
-<img src='readme_img/coif_6_daub_5_3_signals.png' alt='Alt Text' style='width:80%; height:auto;'>
+<img src='readme_img/coif_6_daub_5_3_signals.png' alt='Alt Text' style='width:100%; height:auto;'>
 
-<img src='readme_img/fig_3_15.png' alt='Alt Text' style='width:80%; height:auto;'>
+<img src='readme_img/fig_3_15.png' alt='Alt Text' style='width:100%; height:auto;'>
 
 ## Примечания
 Пришлось изменить знак.
