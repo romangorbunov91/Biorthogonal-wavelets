@@ -33,3 +33,5 @@
 
 ## Reference
 1. James S. Walker. A Primer on Wavelets and Their Scientific Applications. 2nd Edition. 2008.
+2. [Calderbank A.R. Wavelet transforms that map integers to integers // Applied and Computational Harmonic Analysis Volume 5, Issue 3, July 1998, Pages 332-369.](https://www.sciencedirect.com/science/article/pii/S1063520397902384)
+3. [Wim Sweldens. The Lifting Scheme: A Custom-Design Construction of Biorthogonal Wavelets // Applied and Computational Harmonic Analysis Volume 3, Issue 2, April 1996, Pages 186-200.](https://www.sciencedirect.com/science/article/pii/S1063520396900159)
